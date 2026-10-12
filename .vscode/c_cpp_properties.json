@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "name": "ATtiny402",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/kj6gc/AppData/Local/Arduino15/packages/megaTinyCore/hardware/megaavr/2.6.11/cores/megatinycore",
+        "C:/Users/kj6gc/AppData/Local/Arduino15/packages/megaTinyCore/hardware/megaavr/2.6.11/cores/megatinycore/api/deprecated",
+        "C:/Users/kj6gc/AppData/Local/Arduino15/packages/megaTinyCore/hardware/megaavr/2.6.11/variants/txy2"
+      ],
+      "defines": [
+        "ARDUINO=10607",
+        "ARDUINO_AVR_ATtiny402",
+        "ARDUINO_ARCH_MEGAAVR",
+        "ARDUINO_attinyxy2",
+        "__AVR_ATtiny402__",
+        "F_CPU=20000000L"
+      ],
+      "compilerPath": "C:/Users/kj6gc/AppData/Local/Arduino15/packages/DxCore/tools/avr-gcc/7.3.0-atmel3.6.1-azduino7b1/bin/avr-g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "gnu++17",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
