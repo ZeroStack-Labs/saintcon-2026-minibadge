@@ -6,10 +6,12 @@
 
   Phase 1: Both LEDs transmit slowly together
   Phase 2: 4-second pause
-  Phase 3: D2 and D3 alternate at ~35 WPM
-           for 5 rounds each
-  Phase 4: 4-second pause
-  Repeat!
+  Phase 3: D2 and D3 alternate flashing same
+            callsign, but *faster*
+
+  AI Advisement: This code was written with
+  the assistance of Artificial Intelligence (AI),
+  specifically OpenAI's ChatGPT.
 
   D2 = PA1
   D3 = PA2
